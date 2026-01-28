@@ -20,9 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=me-m-abdullah&show_icons=true&locale=en" alt="me-m-abdullah" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=me-m-abdullah&" alt="me-m-abdullah" /></p>
 
-
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
